@@ -1,0 +1,9 @@
+# Built extension (build_ext --inplace)
+*.so
+*.pyd
+
+# setuptools / pip metadata (pip install -e ., etc.)
+*.egg-info
+*.egg
+build
+dist

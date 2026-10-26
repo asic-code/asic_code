@@ -6,6 +6,8 @@
 /ccs26_dataset_artifact_files/ccs26_dataset_artifact_files_v3/artifact_data/MiraiBotnet/mirai_train.csv
 /ccs26_dataset_artifact_files/ccs26_dataset_artifact_files_v3/artifact_data/netML/netML_dataset.csv
 
+/ccs26_dataset_artifact_files/*
+
 *.pyc
 __pycache__/
 .venv/
